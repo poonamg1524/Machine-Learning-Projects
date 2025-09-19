@@ -10,9 +10,12 @@ The goal is to group customers into distinct clusters to help businesses identif
 
 **Steps**
 1. Load the dataset (Mall Customers dataset).
-2. Preprocess features (Annual Income, Spending Score, Gender encoding).
-3. Apply K-Means Clustering to form customer groups.
-4. Visualize clusters in 2D/3D plots.
+   ![image 1](img1.png)
+3. Preprocess features (Annual Income, Spending Score, Gender encoding).
+4. Apply K-Means Clustering to form customer groups.
+   ![image 2](img2.png)
+6. Visualize clusters in 2D/3D plots.
+   ![image 3](img3.png)
 
 **Results**
 
